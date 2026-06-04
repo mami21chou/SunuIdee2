@@ -1,4 +1,7 @@
-import {CleAPI} from './config.js'
+const CleAPI = import.meta.env.VITE_OPENROUTER_API_KEY
+
+// import {CleAPI} from './config.js'
+
 
 const supabaseUrl = 'https://wwwxidgbbrhzooohxqkv.supabase.co'
 const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind3d3hpZGdiYnJoem9vb2h4cWt2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA0OTc2NzYsImV4cCI6MjA5NjA3MzY3Nn0.F8OmKbAGoE8wqPIWPaa5wXbMaMNndfau0yz5JWAoeJ4'
