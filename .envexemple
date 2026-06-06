@@ -1,0 +1,3 @@
+VITE_OPENROUTER_API_KEY='cleApiOpenrouter'
+VITE_supabaseUrl='url supabase'
+VITE_supabaseKey='Clesupabase'
